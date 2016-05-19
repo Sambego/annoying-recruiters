@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+    <title>Mail Filters</title>
+    <id>tag:mail.google.com,2008:filters:1463651745708</id>
+    <updated>2016-05-19T09:55:53Z</updated>
+    <author>
+        <name>Sam Bellen</name>
+    </author>
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1463651745708</id>
+        <updated>2016-05-19T09:55:53Z</updated>
+        <content></content>
+        <apps:property name='from' value='z.tunalioglu@trycatch.tech OR
+            d.devos@huxley.be OR
+            chloe@mag-da.be OR
+            lba@amon.be OR
+            mail.hrpoint@gmail.com OR
+            clara.heuts@steepconsult.com OR
+            clara.heuts@steepconsult.com OR
+            i.wellman@nigelfrank.com OR
+            rebecca.carpey@collibra.com OR
+            emily@wearefutureheads.co.uk OR
+            Argyro.Paroulidou@eurodyn.com OR
+            ellen@modisbelgium.be OR
+            michaela.marti@essers.com OR
+            javier@conversiontalent.eu OR
+            marian.vandekerckhove@direkt-it.be OR
+            louis.bromage@erp-associates.com OR
+            Matthew.Mckenna@next-ventures.com OR
+            silue@gentisrecruitment.com'/>
+        <apps:property name='label' value='Recruiter'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+</feed>
